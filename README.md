@@ -1,33 +1,28 @@
-# Hi, I'm Balázs Kovács 👋
+# Hi there, I'm Balázs Kovács 👋
 
-I am a **Software Development student at BYU-Idaho**, currently focusing on mastering **Python** and building data-driven applications. With a professional background in high-tech logistics, I bring a unique perspective of precision, reliability, and structured problem-solving to software engineering.
+### 🖥️ IT Support & System Administration Student | Automation Enthusiast
 
-### 🛠️ Technical Skills
-* **Languages:** Python 3 (OOP, Data Structures), HTML.
-* **Tools:** Git, GitHub, VS Code.
-* **Competencies:** Data Analysis, Visualization, Testing & Debugging.
+I am a proactive IT professional in training, transitioning from a strong background in logistics and manufacturing into Information Technology. I specialize in applying analytical problem-solving, operational precision, and Python automation to IT infrastructure and technical support.
 
-### 🚀 Featured Project
-**[Real Estate Data Visualization (Szombathely)](https://github.com/kovacsbalazs/szombathely-ingatlan-vizu)**
-* A Python tool designed to analyze and visualize real estate market trends.
-* Uses **Pandas** for data manipulation and visualization libraries to generate market insights.
+My goal is to become a Technical Support Engineer who doesn't just react to problems, but anticipates and prevents them using scripts and logical data analysis.
 
-### 🌐 Let's Connect
-* **LinkedIn:** [linkedin.com/in/balazs-kovacs-currentlystudent](https://linkedin.com/in/balazs-kovacs-currentlystudent)
-* **Location:** Beugen, Netherlands
+- 🔭 I’m currently studying for my **Bachelor's in Information Technology** at Ensign College.
+- 🌱 I’m currently focusing on: **IT Fundamentals, System Administration, and Technical Troubleshooting**.
+- 🎓 Certifications: **AI Fundamentals** (Coursera), **PathwayConnect** (BYU-Pathway Worldwide), **Technical Support Engineer** (In Progress).
+- 💡 My background: I developed my high-pressure problem-solving and customer-centric skills through years in fast-paced retail, and built extreme adaptability during a 24/7 full-time volunteer mission across 6 diverse cities.
 
+### 🛠️ Tech Stack & Core Skills
 
-<!--
-**Bali8383/Bali8383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support & Infrastructure:**
+- Hardware & Software Diagnostics
+- System Administration Concepts
+- Process Optimization & Logic
 
-Here are some ideas to get you started:
+**Scripting, Data & Tools:**
+- Python 3 (Automation, OOP, Core Logic)
+- Data Processing (Pandas, Matplotlib)
+- Git & GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/balazs-kovacs-currentlystudent](https://linkedin.com/in/balazs-kovacs-currentlystudent)
+- **Email:** balazskovacs8383@gmail.com
